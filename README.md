@@ -1,4 +1,4 @@
-# Tutorial Técnico de Instalação do Tema Onyx no Dolphin Emulator
+# Tutorial Técnico de Instalação do Tema PRETO AMOLED no Dolphin Emulator
 <img width="1920" height="1032" alt="Captura de tela 2025-11-25 204514" src="https://github.com/user-attachments/assets/9064567c-7038-4210-960f-cd0160e46318" />
 
 
@@ -8,7 +8,7 @@ Acesse a pasta raiz do emulador localizada em:
 <img width="834" height="944" alt="Captura de tela 2025-11-25 205554" src="https://github.com/user-attachments/assets/58446046-cc67-4461-9864-920ee6040eca" />
 
 
-Após localizar essa pasta, cole o arquivo **onyx.qss** no diretório indicado.
+Após localizar essa pasta, cole o arquivo **amoled.qss** no diretório indicado.
 
 ---
 
