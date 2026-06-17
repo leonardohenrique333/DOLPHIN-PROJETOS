@@ -8,7 +8,7 @@ Acesse a pasta raiz do emulador localizada em:
 <img width="834" height="944" alt="Captura de tela 2025-11-25 205554" src="https://github.com/user-attachments/assets/58446046-cc67-4461-9864-920ee6040eca" />
 
 
-Após localizar essa pasta, cole o arquivo **amoled.qss** no diretório indicado.
+Após localizar essa pasta, cole o arquivo **ONYX.qss** no diretório indicado.
 
 ---
 
