@@ -179,7 +179,7 @@ QComboBox::drop-down {
 }
 
 QScrollBar:vertical, QScrollBar:horizontal {
-    background: #0d0d0d;
+    background: #ff0000;
 }
 
 QScrollBar::handle:vertical,
